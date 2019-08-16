@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BacancyTechnologyPractical</string>
+
+
+    <string name="enter_name">Name</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_phone">Phone No</string>
+    <string name="enter_password">Password</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Log in</string>
+    <string name="logout">Log out</string>
+    <string name="currentuser">Current User:</string>
+
+    <string name="signupmessage">To create new account click here:</string>
+    <string name="loginmessage">Already have an account:</string>
+    <string name="current_location">Current Location</string>
+
+
+    <string name="nameerror">Please enter valid name.</string>
+    <string name="emailerror">Please enter valid email.</string>
+    <string name="phonenumber">Please enter valid phone no.</string>
+    <string name="passworderror">Please enter valid password.</string>
+    <string name="conformpassworderror">Password not match.</string>
+
+    <string name="locationmessage">Please turn on your location service!</string>
+    <string name="internetmessage">Check your internet connection.</string>
+</resources>

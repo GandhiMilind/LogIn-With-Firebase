@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "888646952034",
+    "firebase_url": "https://bacancytechnologypracticaltest.firebaseio.com",
+    "project_id": "bacancytechnologypracticaltest",
+    "storage_bucket": "bacancytechnologypracticaltest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888646952034:android:17e3642a31ff72ac",
+        "android_client_info": {
+          "package_name": "milind.bacancytechnologypractical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888646952034-ih6841q78adv93r0qn1b1o0m5r8lb6vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "milind.bacancytechnologypractical",
+            "certificate_hash": "f0fef83507ced3aa3048196609e7a15c97e324ac"
+          }
+        },
+        {
+          "client_id": "888646952034-jth3vhtefl1p0rs5kba0272cecmcc5pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnF1nrHARuXqdPNI-fOlol37mz-Q7WgYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888646952034-jth3vhtefl1p0rs5kba0272cecmcc5pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
